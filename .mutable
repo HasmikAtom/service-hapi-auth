@@ -1,0 +1,4 @@
+{
+    "healthCheckType": "http",
+    "healthCheck": "health"
+}
